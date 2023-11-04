@@ -21,4 +21,6 @@ So make sure to run the APK(to directly run on mobile devices) and review the co
 
 ## Demonstration: 
 
+https://github.com/Wannabe-King/FlashCard/assets/97578019/21f43a8e-2667-46da-863e-58f619777b36
+
 
